@@ -1,9 +1,9 @@
-# Portfolio
+# Portifólio
 <h1 align="center">Olá 👋, eu sou Gustavo Alves</h1>
 <h3 align="center">Um físico do Brasil</h3>
 
 - 🔭 Atualmente estou trabalhando em **projetos de Ciência de Dados**
-- 
+
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
