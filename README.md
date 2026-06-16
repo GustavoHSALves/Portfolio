@@ -5,6 +5,23 @@
 - 🔭 Atualmente estou trabalhando em **projetos de Ciência de Dados**
 
 
+## 📊 Projetos
+
+| Projeto | Descrição |
+|----------|------------|
+| 🌍 Predição de IDH | Modelo de regressão linear para prever o Índice de Desenvolvimento Humano de países a partir de indicadores socioeconômicos. |
+| 🕊️ Classificação de Missões da OTAN | Modelo de classificação para categorização de missões da OTAN utilizando técnicas de Machine Learning supervisionado. |
+
+### Principais habilidades demonstradas
+- Limpeza e tratamento de dados
+- Análise exploratória de dados (EDA)
+- Feature Engineering
+- Regressão Linear
+- Classificação Supervisionada
+- Avaliação de Modelos
+- Python, Pandas, Scikit-Learn e SQL
+
+
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 </p>
