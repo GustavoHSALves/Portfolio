@@ -18,7 +18,7 @@ Dashboard interativo para análise de vendas, clientes e produtos.
 
 ## Dashboard
 
-(Imagem será adicionada aqui)
+[sales_dashboard.png]
 
 ## Principais Insights
 
