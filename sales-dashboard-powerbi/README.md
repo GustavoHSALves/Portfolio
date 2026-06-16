@@ -18,7 +18,7 @@ Dashboard interativo para análise de vendas, clientes e produtos.
 
 ## Dashboard
 
-[sales_dashboard.png]
+![sales-dashboard-powerbi](sales_dashboard.png)
 
 ## Principais Insights
 
