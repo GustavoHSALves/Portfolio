@@ -19,7 +19,7 @@
 - Regressão Linear
 - Classificação Supervisionada
 - Avaliação de Modelos
-- Python, Pandas, Scikit-Learn e SQL
+- Python, Pandas, Scikit-Learn 
 
 
 <h3 align="left">Entre em contato comigo:</h3>
