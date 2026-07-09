@@ -23,7 +23,7 @@
 - Python, Pandas, Scikit-Learn 
 
 
-<h3 align="left">Entre em contato comigo:</h3>
+<h3 align="left">Entre em contato comigo:</h3> gustavohenriquesalves@gmail.com
 <p align="left">
 </p>
 
