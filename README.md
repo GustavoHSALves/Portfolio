@@ -1,5 +1,5 @@
 # Portifólio
-<h1 align="center">Olá 👋, eu sou Gustavo Alves</h1>
+<h1 align="center">Olá 👋, meu nome é Gustavo Alves</h1>
 
 
 - 🔭 Atualmente estou trabalhando em **projetos de Ciência de Dados**
