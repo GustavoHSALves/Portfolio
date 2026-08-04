@@ -12,6 +12,7 @@
 | 🌍 Predição de IDH | Modelo de regressão linear para prever o Índice de Desenvolvimento Humano de países a partir de indicadores socioeconômicos. |
 | 🕊️ Classificação de Missões da OTAN | Modelo de classificação para categorização de missões da OTAN utilizando técnicas de Machine Learning supervisionado. |
 | 💶 Modelo de churn | Modelo de classificação de churn baseado em transações finanaceiras. |
+|📈 Estratégia Long/Short com Machine Learning | Modelo de regressão para previsão de retornos de ativos e implementação de uma estratégia quantitativa Long/Short com ranking diário e backtesting.|
 
 ### Principais habilidades demonstradas
 - Limpeza e tratamento de dados
